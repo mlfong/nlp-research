@@ -12,3 +12,8 @@ Dependencies:
 	UMass' Mallet
 	Weka
 	NLTK
+
+Running scripts are echo, echo2, echo_final
+	-> calls compile
+	-> calls run every 10 minutes
+parserhell.py creates the .arff file, and does the NLP stuff inside (using NLTK, bing api, etc)
