@@ -1,0 +1,14 @@
+Code and scripts for undergraduate research cs-4699, independent study in natural language processing.
+	An analysis of hot topics in social networks by looking at Twitter [global] trends.
+
+Nomenclature is based on GT's last three weeks of school. 
+Hell [week] - 2 weeks before finals
+Dead [week] - 1 week before finals
+Finals
+
+Dependencies:
+	Twitter4j
+	Bing Search Java SDK (which I believe is defunct now :( )
+	UMass' Mallet
+	Weka
+	NLTK
